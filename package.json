@@ -30,7 +30,7 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.0.2",
     "rollup-plugin-istanbul": "^2.0.1",
-    "rollup-plugin-serve": "^1.0.1",
+    "rollup-plugin-serve": "^1.0.2",
     "stylelint": "^10.1.0",
     "stylelint-config-twbs-bootstrap": "^0.4.0"
   }
